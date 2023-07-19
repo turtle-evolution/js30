@@ -6,3 +6,4 @@ Wish to help everyone together learn and share
 
 - Day 1: Drum kit
 - Day 2: Clock
+- Day 3: Update CSS Variables with JS
