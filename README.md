@@ -8,3 +8,4 @@ Wish to help everyone together learn and share
 - Day 2: Clock
 - Day 3: Update CSS Variables with JS
 - Day 4: Practice ```map, filter, sort, reduce```
+- Day 5: Practice flexbox, ```add, remove``` class.
