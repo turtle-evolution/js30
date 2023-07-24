@@ -6,5 +6,6 @@
 - Highlight for keywords found.
 - Format number.
 - Use Regex.
-
-  Have fun & interested 🤖
+- Sort by population.
+  
+### Have fun & interested 🤖
