@@ -11,3 +11,4 @@ Wish to help everyone together learn and share
 - Day 5: Practice flexbox, ```add, remove``` class.
 - Day 6: Search city or state
 - Day 7: Practice ```find, some, every, findIndex```
+- Day 8: HTML5 Canvas
