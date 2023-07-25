@@ -9,3 +9,5 @@ Wish to help everyone together learn and share
 - Day 3: Update CSS Variables with JS
 - Day 4: Practice ```map, filter, sort, reduce```
 - Day 5: Practice flexbox, ```add, remove``` class.
+- Day 6: Search city or state
+- Day 7: Practice ```find, some, every, findIndex```
