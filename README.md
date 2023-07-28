@@ -13,3 +13,4 @@ Wish to help everyone together learn and share
 - Day 7: Practice ```find, some, every, findIndex```
 - Day 8: HTML5 Canvas
 - Day 9: Console Tricks
+- Day 10: Hold Shift to Check Multiple Checkboxes
