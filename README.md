@@ -14,3 +14,4 @@ Wish to help everyone together learn and share
 - Day 8: HTML5 Canvas
 - Day 9: Console Tricks
 - Day 10: Hold Shift to Check Multiple Checkboxes
+- Day 11: HTML Video Player
