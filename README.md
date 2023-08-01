@@ -15,3 +15,4 @@ Wish to help everyone together learn and share
 - Day 9: Console Tricks
 - Day 10: Hold Shift to Check Multiple Checkboxes
 - Day 11: HTML Video Player
+- Day 12: Key Detection
