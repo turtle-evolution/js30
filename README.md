@@ -17,3 +17,4 @@ Wish to help everyone together learn and share
 - Day 11: HTML Video Player
 - Day 12: Key Detection
 - Day 13: Slide In on Scroll
+- Day 14: JS Reference VS Copy
