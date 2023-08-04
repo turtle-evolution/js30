@@ -18,3 +18,4 @@ Wish to help everyone together learn and share
 - Day 12: Key Detection
 - Day 13: Slide In on Scroll
 - Day 14: JS Reference VS Copy
+- Day 15: LocalStorage and Event Delegation
