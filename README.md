@@ -20,3 +20,4 @@ Wish to help everyone together learn and share
 - Day 14: JS Reference VS Copy
 - Day 15: LocalStorage and Event Delegation
 - Day 16: CSS Text Shadow Mouse Move Effect
+- Day 17: Sort Without Articles
