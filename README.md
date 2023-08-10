@@ -22,3 +22,4 @@ Wish to help everyone together learn and share
 - Day 16: CSS Text Shadow Mouse Move Effect
 - Day 17: Sort Without Articles
 - Day 18: Adding Up Times with Reduce
+- Day 19: Webcam Fun
