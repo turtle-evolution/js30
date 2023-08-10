@@ -1,0 +1,18 @@
+body {
+    font-family: 'Borel', cursive;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    min-width: 130px;
+}
+
+h1,
+.total-times {
+    text-align: center;
+}
+
+.total-times {
+    font-size: 20px;
+}
