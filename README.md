@@ -24,3 +24,4 @@ Wish to help everyone together learn and share
 - Day 18: Adding Up Times with Reduce
 - Day 19: Webcam Fun
 - Day 20: Speech Detection
+- Day 21: Geolocation
