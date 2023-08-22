@@ -27,3 +27,4 @@ Wish to help everyone together learn and share
 - Day 21: Geolocation
 - Day 22: Follow Along Link Highlighter
 - Day 23: Speech Synthesis
+- Day 24: Sticky Nav
