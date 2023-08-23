@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+div {
+  width: 100%;
+  padding: 100px;
+}
+
+.one {
+  background: thistle;
+}
+
+.two {
+  background: mistyrose;
+}
+
+.three {
+  background: coral;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: all .3s ease;
+}
+
+button:hover {
+  background-color: coral;
+  color: white;
+}
