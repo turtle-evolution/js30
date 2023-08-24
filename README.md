@@ -29,3 +29,4 @@ Wish to help everyone together learn and share
 - Day 23: Speech Synthesis
 - Day 24: Sticky Nav
 - Day 25: Understanding JavaScript's Capture
+- Day 26: Follow Along Nav
