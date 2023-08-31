@@ -31,3 +31,4 @@ Wish to help everyone together learn and share
 - Day 25: Understanding JavaScript's Capture
 - Day 26: Follow Along Nav
 - Day 27: Click and Drag
+- Day 28: Video Speed Controller UI
