@@ -18,6 +18,7 @@ function timer(seconds) {
         const secondLeft = Math.round((then - Date.now()) / 1000);
         if(secondLeft <= 0) {
             clearInterval(countdown);
+            displayTimeLeft(0);
             return;
         }
         // display it
@@ -33,7 +34,7 @@ function displayTimeLeft(seconds) {
     const display = `${minutes}:${remainderSeconds < 10 ? '0' : ''}${remainderSeconds}`;
 
     document.title = display;
-    timerDisplay.textContent = display;
+    timerDisplay.textContent = seconds === 0 ? '🥳🥳🥳' : display;
 
     console.log({minutes, remainderSeconds});
 }
