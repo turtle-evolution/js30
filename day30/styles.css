@@ -1,0 +1,139 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  background: #ffc600;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  text-align: center;
+  font-size: 10rem;
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.score {
+  background: rgba(255,255,255,0.2);
+  padding: 0 3rem;
+  line-height: 1;
+  border-radius: 1rem;
+}
+
+.game {
+  max-width: 600px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.hole {
+  flex: 1 0 33.33%;
+  overflow: hidden;
+  position: relative;
+}
+
+.hole:after {
+  display: block;
+  background: url(dirt.svg) bottom center no-repeat;
+  background-size: contain;
+  content: '';
+  width: 100%;
+  height:70px;
+  position: absolute;
+  z-index: 2;
+  bottom: -30px;
+}
+
+.mole {
+  background: url('mole.svg') bottom center no-repeat;
+  background-size: 60%;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  height: 100%;
+  transition:all 0.4s;
+}
+
+.hole.up .mole {
+  top: 0;
+}
+
+.btn-group .btn-start,
+.btn-group .btn-stop  {
+  border: 1px solid #fff;
+  background: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all .3s ease;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.btn-group .btn-start:hover,
+.btn-group .btn-stop {
+  background: transparent;
+  color: #fff;
+}
+
+.btn-group .btn-stop {
+  margin-left: 4px;
+}
+
+.btn-group .btn-start:disabled:hover {
+  cursor: not-allowed;
+  background: #fff;
+  color: rgb(33 31 31 / 30%);
+}
+
+.btn-group {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.input-form {
+  text-align: center;
+  font-size: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-form input {
+  border: 1px solid #ccc;
+  padding: 8px;
+  min-width: 180px;
+  margin-right: 8px;
+}
+
+.input-form input:focus {
+  outline: none;
+}
+
+.input-form input:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.error-message {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #f00;
+  margin-top: 10px;
+}

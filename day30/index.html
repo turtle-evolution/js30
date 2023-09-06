@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Whack A Mole! 👀</title>
+        <link rel="icon" href="https://fav.farm/🤖" />
+        <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+        <link href="styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1>Whack-a-mole! <span class="score">0</span></h1>
+        <div class="btn-group"><button class="btn-start" onClick="startGame()">Start!</button><button class="btn-stop" onClick="stopGame()">Stop!!!</button><br/>
+            <h2>Time Up: <span class="time-up">0:00</span></h2>
+        </div>
+        <div class="input-form"><input name="timeStart" placeholder="Please input time start" type="number" /> (seconds)<br/>
+
+        </div>
+        <div class="error-message"><span></span></div>
+        <div class="game">
+            <div class="hole hole1">
+                <div class="mole"></div>
+            </div>
+            <div class="hole hole2">
+                <div class="mole"></div>
+            </div>
+            <div class="hole hole3">
+                <div class="mole"></div>
+            </div>
+            <div class="hole hole4">
+                <div class="mole"></div>
+            </div>
+            <div class="hole hole5">
+                <div class="mole"></div>
+            </div>
+            <div class="hole hole6">
+                <div class="mole"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="main.js"></script>
+    </body>
+</html>
