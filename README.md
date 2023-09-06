@@ -33,3 +33,7 @@ Wish to help everyone together learn and share
 - Day 27: Click and Drag
 - Day 28: Video Speed Controller UI
 - Day 29: Countdown Timer
+- Day 30: Whack A Mole
+
+### Big thank you [Wes bos](https://github.com/wesbos/JavaScript30) 👏👏👏👏👏👏👏👏👏👏🫶🫶🫶🫶🫶🫶
+Thanks to it, I have more knowledge about Javascript and improved my skills. I have changed a little code so it does not match your code. Thank you so much for your course.
